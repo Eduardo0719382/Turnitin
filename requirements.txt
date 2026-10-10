@@ -1,0 +1,6 @@
+python-docx
+PyMuPDF
+numpy
+scikit-learn
+torch
+transformers

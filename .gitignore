@@ -2,3 +2,4 @@ cache/
 datos/
 __pycache__/
 *.html
+*.exe
